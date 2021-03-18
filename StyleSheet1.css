@@ -1,0 +1,17 @@
+﻿body {
+    background: #418AB5 !important;
+}
+#sidebar {
+    background-color: #F5FAFC;
+
+    border: 1px solid #E0EBF2;
+}
+#newsbar {
+    background-color: #F5FAFC;
+   
+   
+    border: 1px solid #E0EBF2;
+}
+#mainrow {
+    background-color: #EEF6F9;
+}
